@@ -1,4 +1,6 @@
 # 3b  CREATION FOR CHAT USING TCP SOCKETS
+## DEVELOPED BY : NITHYA D
+## REG.NO : 212223240110
 
 ## AIM :
 To write a python program for creating Chat using TCP Sockets Links.
@@ -12,6 +14,9 @@ To write a python program for creating Chat using TCP Sockets Links.
 ## PROGRAM :
 ### CLIENT :
 ```
+Developed by : NITHYA D
+Reg.no : 212223240110
+
 import socket 
 s=socket.socket() 
 s.connect(('localhost',8000)) 
@@ -22,6 +27,9 @@ while True:
 ```
 ### SERVER :
 ``` 
+Developed by : NITHYA D
+Reg.no : 212223240110
+
 import socket 
 s=socket.socket() 
 s.bind(('localhost',8000)) 
@@ -35,11 +43,7 @@ while True:
 ```
 
 ## OUTPUT :
-### CLIENT :
-![image](https://github.com/NithyaDayalan/3b_CHAT_USING_TCP_SOCKETS/assets/166380061/6b285fc9-ac9e-47d6-8106-06c57cd25645)
-
-### SERVER :
-![image](https://github.com/NithyaDayalan/3b_CHAT_USING_TCP_SOCKETS/assets/166380061/1dd24a7e-9eb5-4592-8d0e-c4a6d276b063)
+![image](https://github.com/NithyaDayalan/3b_CHAT_USING_TCP_SOCKETS/assets/166380061/6842d83c-e228-4981-9a7b-b0a9c276bd7d)
 
 ## RESULT :
 Thus, the python program for creating Chat using TCP Sockets Links was successfully created and executed.
